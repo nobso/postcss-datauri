@@ -1,4 +1,4 @@
-postcss image URL to dataURI converter
+postcss image URL to dataURI converter [![Build Status](https://travis-ci.org/yahoo/postcss-datauri.svg?branch=master)](https://travis-ci.org/yahoo/postcss-datauri)
 ===========================
 It's a simple postCSS plugin which just converts the relative image URL to dataURI
 
